@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas
+scikit-learn
+torch==2.2.1
+torchdata==0.7.1
+dgl==2.1.0
+packaging
+pyyaml
+pydantic
